@@ -39,6 +39,7 @@ html{
 }
 
 body{
+    zoom: 75%;
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
